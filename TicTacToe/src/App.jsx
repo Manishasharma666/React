@@ -15,10 +15,6 @@ function Square(){
 }
 
 
-
-
-
-
 function App() {
 
   return (
