@@ -1,0 +1,16 @@
+.footer{
+    margin-top: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 10px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(155, 45, 155);
+
+}
+
+.item{
+    margin: 50px;
+}
